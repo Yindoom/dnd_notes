@@ -1,0 +1,1 @@
+The forest that edges on the village changed forever, when the maelstrom appeared. It became an entrance to the Feywild. The fey creatures desperately guard the border, in an attempt to keep outsiders from entering their domain.

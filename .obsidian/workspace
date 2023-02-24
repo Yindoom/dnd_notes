@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f7e8bb83ba0588ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e2a760735443b5a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Finding the Stars/Stuff/Train fares.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55e5cd7f7fed0c16",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3db16c558976e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "835ef93e73e854ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d9dd352eba031c68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12da92b6e3cf558f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7feb5f82eb9201e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fc5be6ff4b4d5cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Finding the Stars/Stuff/Train fares.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6e2a760735443b5a",
+  "lastOpenFiles": [
+    "Finding the Stars/Adventures/Train of thought or whatever.md",
+    "Finding the Stars/Archives/Music Notes.md",
+    "Finding the Stars/People/Allies.md",
+    "Finding the Stars/People/Acquaintances.md",
+    "Finding the Stars/People/Pathfinder.md",
+    "Finding the Stars/Areas/Realm of Dragons.md",
+    "Finding the Stars/Areas/Realm of the curious small ones.md",
+    "Finding the Stars/Areas/Realm of the crafty small ones.md",
+    "Finding the Stars/Areas/Realm of the Elves.md",
+    "Finding the Stars/Areas/Realm of Humanity.md"
+  ]
+}

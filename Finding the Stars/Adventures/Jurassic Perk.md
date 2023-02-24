@@ -1,0 +1,1 @@
+A professor obsessed with stories of ancient creatures of giant stature, attempts to resurrect dinosaurs, but adds lasers and stuff.

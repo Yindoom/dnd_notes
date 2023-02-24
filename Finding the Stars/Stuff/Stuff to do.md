@@ -1,0 +1,4 @@
+- Piloting Skill (see starfinder rules)
+- Other skills
+- More Lore?
+- Brainstorm story and quests
